@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/jaminton/Software_Project/djang-crud-react/venv"
+set -gx VIRTUAL_ENV "/home/jamintondevops/Practice_Software/djang-crud-react/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

@@ -1,4 +1,4 @@
-#!/home/jaminton/Software_Project/djang-crud-react/venv/bin/python3
+#!/home/jamintondevops/Practice_Software/djang-crud-react/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
